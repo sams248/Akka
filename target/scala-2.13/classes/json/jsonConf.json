@@ -1,0 +1,6 @@
+{
+  "aJsonPropertyType": "learning akka",
+  "akka": {
+    "loglevel": "DEBUG"
+  }
+}
